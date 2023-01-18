@@ -1,0 +1,15 @@
+C:\Users\Vence\Desktop\repos\BankBranch\BankBranch\obj\Debug\net6.0\BankBranch.csproj.AssemblyReference.cache
+C:\Users\Vence\Desktop\repos\BankBranch\BankBranch\obj\Debug\net6.0\BankBranch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vence\Desktop\repos\BankBranch\BankBranch\obj\Debug\net6.0\BankBranch.AssemblyInfoInputs.cache
+C:\Users\Vence\Desktop\repos\BankBranch\BankBranch\obj\Debug\net6.0\BankBranch.AssemblyInfo.cs
+C:\Users\Vence\Desktop\repos\BankBranch\BankBranch\obj\Debug\net6.0\BankBranch.csproj.CoreCompileInputs.cache
+C:\Users\Vence\Desktop\repos\BankBranch\BankBranch\bin\Debug\net6.0\BankBranch.exe
+C:\Users\Vence\Desktop\repos\BankBranch\BankBranch\bin\Debug\net6.0\BankBranch.deps.json
+C:\Users\Vence\Desktop\repos\BankBranch\BankBranch\bin\Debug\net6.0\BankBranch.runtimeconfig.json
+C:\Users\Vence\Desktop\repos\BankBranch\BankBranch\bin\Debug\net6.0\BankBranch.dll
+C:\Users\Vence\Desktop\repos\BankBranch\BankBranch\bin\Debug\net6.0\BankBranch.pdb
+C:\Users\Vence\Desktop\repos\BankBranch\BankBranch\obj\Debug\net6.0\BankBranch.dll
+C:\Users\Vence\Desktop\repos\BankBranch\BankBranch\obj\Debug\net6.0\refint\BankBranch.dll
+C:\Users\Vence\Desktop\repos\BankBranch\BankBranch\obj\Debug\net6.0\BankBranch.pdb
+C:\Users\Vence\Desktop\repos\BankBranch\BankBranch\obj\Debug\net6.0\BankBranch.genruntimeconfig.cache
+C:\Users\Vence\Desktop\repos\BankBranch\BankBranch\obj\Debug\net6.0\ref\BankBranch.dll
